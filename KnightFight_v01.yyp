@@ -47,6 +47,7 @@
     {"id":{"name":"obj_God","path":"objects/obj_God/obj_God.yy",},},
     {"id":{"name":"obj_PlayerController","path":"objects/obj_PlayerController/obj_PlayerController.yy",},},
     {"id":{"name":"obj_SolidParent","path":"objects/obj_SolidParent/obj_SolidParent.yy",},},
+    {"id":{"name":"GangnamStyle","path":"objects/GangnamStyle/GangnamStyle.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprite_broadcast","path":"scripts/sprite_broadcast/sprite_broadcast.yy",},},
     {"id":{"name":"snd_Footstep_1","path":"sounds/snd_Footstep_1/snd_Footstep_1.yy",},},

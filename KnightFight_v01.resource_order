@@ -29,6 +29,7 @@
     {"name":"obj_Dust","order":3,"path":"objects/obj_Dust/obj_Dust.yy",},
     {"name":"obj_God","order":1,"path":"objects/obj_God/obj_God.yy",},
     {"name":"obj_SolidParent","order":2,"path":"objects/obj_SolidParent/obj_SolidParent.yy",},
+    {"name":"GangnamStyle","order":4,"path":"objects/GangnamStyle/GangnamStyle.yy",},
     {"name":"snd_Footstep_2","order":1,"path":"sounds/snd_Footstep_2/snd_Footstep_2.yy",},
     {"name":"snd_Screen_Fade_In","order":5,"path":"sounds/snd_Screen_Fade_In/snd_Screen_Fade_In.yy",},
     {"name":"snd_Screen_Fade_Out","order":6,"path":"sounds/snd_Screen_Fade_Out/snd_Screen_Fade_Out.yy",},
