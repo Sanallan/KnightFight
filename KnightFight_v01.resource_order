@@ -26,10 +26,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"GangnamStyle","order":4,"path":"objects/GangnamStyle/GangnamStyle.yy",},
     {"name":"obj_Dust","order":3,"path":"objects/obj_Dust/obj_Dust.yy",},
     {"name":"obj_God","order":1,"path":"objects/obj_God/obj_God.yy",},
     {"name":"obj_SolidParent","order":2,"path":"objects/obj_SolidParent/obj_SolidParent.yy",},
-    {"name":"GangnamStyle","order":4,"path":"objects/GangnamStyle/GangnamStyle.yy",},
     {"name":"snd_Footstep_2","order":1,"path":"sounds/snd_Footstep_2/snd_Footstep_2.yy",},
     {"name":"snd_Screen_Fade_In","order":5,"path":"sounds/snd_Screen_Fade_In/snd_Screen_Fade_In.yy",},
     {"name":"snd_Screen_Fade_Out","order":6,"path":"sounds/snd_Screen_Fade_Out/snd_Screen_Fade_Out.yy",},
@@ -66,5 +66,6 @@
     {"name":"spr_Knight_UpRight","order":7,"path":"sprites/spr_Knight_UpRight/spr_Knight_UpRight.yy",},
     {"name":"spr_Player_Shadow","order":2,"path":"sprites/spr_Player_Shadow/spr_Player_Shadow.yy",},
     {"name":"spr_StunnedStars","order":3,"path":"sprites/spr_StunnedStars/spr_StunnedStars.yy",},
+    {"name":"spr_Knight_A_Spinning","order":8,"path":"sprites/spr_Knight_A_Spinning/spr_Knight_A_Spinning.yy",},
   ],
 }
