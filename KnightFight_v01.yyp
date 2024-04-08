@@ -92,6 +92,7 @@
     {"id":{"name":"spr_Knight_UpRight","path":"sprites/spr_Knight_UpRight/spr_Knight_UpRight.yy",},},
     {"id":{"name":"spr_PH_Wall","path":"sprites/spr_PH_Wall/spr_PH_Wall.yy",},},
     {"id":{"name":"spr_Player_Shadow","path":"sprites/spr_Player_Shadow/spr_Player_Shadow.yy",},},
+    {"id":{"name":"spr_StunnedStars","path":"sprites/spr_StunnedStars/spr_StunnedStars.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

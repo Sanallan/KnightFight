@@ -64,5 +64,6 @@
     {"name":"spr_Knight_UpLeft","order":6,"path":"sprites/spr_Knight_UpLeft/spr_Knight_UpLeft.yy",},
     {"name":"spr_Knight_UpRight","order":7,"path":"sprites/spr_Knight_UpRight/spr_Knight_UpRight.yy",},
     {"name":"spr_Player_Shadow","order":2,"path":"sprites/spr_Player_Shadow/spr_Player_Shadow.yy",},
+    {"name":"spr_StunnedStars","order":3,"path":"sprites/spr_StunnedStars/spr_StunnedStars.yy",},
   ],
 }
