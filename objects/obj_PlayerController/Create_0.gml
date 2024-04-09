@@ -4,8 +4,27 @@ yspd = 0;
 xspd = 0;
 moveSpd = 4;
 fric = 0.9; // 0 = instantly stops; 1 = no friction at all (keep values between 0 and 1)
+attack = 0;
 
 face = 6
 sprite = [spr_Knight_Right, spr_Knight_UpRight, spr_Knight_Up, spr_Knight_UpLeft, spr_Knight_Left,
 			spr_Knight_DownLeft, spr_Knight_Down, spr_Knight_DownRight];
+
+attackSprite = [spr_Knight_A_Right, spr_Knight_A_UpRight, spr_Knight_A_Up, spr_Knight_A_UpLeft, 
+				spr_Knight_A_Left, spr_Knight_A_DownLeft, spr_Knight_A_Down, spr_Knight_A_DownRight];
+attackHbox = [spr_Knight_A_Right_Hbox, spr_Knight_A_UpRight_Hbox, spr_Knight_A_Up_Hbox, spr_Knight_A_UpLeft_Hbox, 
+				spr_Knight_A_Left_Hbox, spr_Knight_A_DownLeft_Hbox, spr_Knight_A_Down_Hbox, spr_Knight_A_DownRight_Hbox];				
+
+
+
 sprite_index = sprite[face];
+
+state = PLAYERSTATE.FREE;
+hitByAttack = ds_list_create();
+
+enum PLAYERSTATE {
+	FREE,
+	ATTACK,
+	ATTACK_SPIN
+}
+
