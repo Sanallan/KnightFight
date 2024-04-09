@@ -7,6 +7,12 @@ function PlayerState_Attack() {
 		if (sprite_index != attackSprite[i]) {
 				sprite_index = attackSprite[face];
 				image_speed = 1.2;
+				audio_stop_sound(snd_Footstep_1);
+				audio_stop_sound(snd_Footstep_2);
+				if (!audio_is_playing(snd_SwordSwing1) && !audio_is_playing(snd_SwordSwing2) && !audio_is_playing(snd_SwordSwing3))
+				{
+				audio_play_sound(choose(snd_SwordSwing1,snd_SwordSwing2,snd_SwordSwing3),1,false);
+				}
 			ds_list_clear(hitByAttack);
 		}
 	}

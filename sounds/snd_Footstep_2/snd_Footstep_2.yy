@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_Footstep_2.wav",
   "type":0,
-  "volume":0.47,
+  "volume":0.22,
 }
