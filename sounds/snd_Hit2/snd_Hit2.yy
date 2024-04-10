@@ -12,8 +12,8 @@
   "duration":0.805102,
   "name":"snd_Hit2",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Player Hit",
+    "path":"folders/Sounds/Impact Sounds/Player Hit.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
