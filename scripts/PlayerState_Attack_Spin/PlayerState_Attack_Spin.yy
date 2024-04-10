@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"PlayerState_Attack_Spin",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Player Scripts",
+    "path":"folders/Scripts/Player Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

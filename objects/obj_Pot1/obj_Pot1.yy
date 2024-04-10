@@ -15,8 +15,8 @@
     "path":"folders/Objects/Props.yy",
   },
   "parentObjectId":{
-    "name":"obj_SolidParent",
-    "path":"objects/obj_SolidParent/obj_SolidParent.yy",
+    "name":"obj_Barrel",
+    "path":"objects/obj_Barrel/obj_Barrel.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

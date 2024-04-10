@@ -2,11 +2,15 @@
 // You can write your code in this editor
 
 sprite_broadcast("foot1", function() {
-	audio_play_sound(snd_Footstep_1,0,false);
+	if (state = PLAYERSTATE.FREE) {
+		audio_play_sound(snd_Footstep_1,0,false);
+	}
 });
 
 sprite_broadcast("foot2", function() {
-	audio_play_sound(snd_Footstep_2,0,false);
+	if (state = PLAYERSTATE.FREE) {
+		audio_play_sound(snd_Footstep_2,0,false);
+	}
 });
 
 if dash = 2 {

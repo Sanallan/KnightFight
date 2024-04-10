@@ -1,12 +1,12 @@
 {
   "$GMScript":"",
-  "%Name":"PlayerState_Free",
+  "%Name":"BoxState_Hit",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"PlayerState_Free",
+  "name":"BoxState_Hit",
   "parent":{
-    "name":"Player Scripts",
-    "path":"folders/Scripts/Player Scripts.yy",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
