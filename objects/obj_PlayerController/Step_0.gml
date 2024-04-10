@@ -14,3 +14,5 @@ switch (state){
 	case PLAYERSTATE.ATTACK_SPIN: PlayerState_Attack_Spin();
 	break;
 }
+
+depth = -bbox_bottom;
