@@ -3,6 +3,8 @@
   "%Name":"obj_Pot1",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":18,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_Pot1",
@@ -11,7 +13,10 @@
     "name":"Props",
     "path":"folders/Objects/Props.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_SolidParent",
+    "path":"objects/obj_SolidParent/obj_SolidParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

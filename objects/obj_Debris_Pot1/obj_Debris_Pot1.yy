@@ -1,15 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Pot2",
+  "%Name":"obj_Debris_Pot1",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Pot2",
+  "name":"obj_Debris_Pot1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Props",
-    "path":"folders/Objects/Props.yy",
+    "name":"Particles",
+    "path":"folders/Objects/Particles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Pot3",
-    "path":"sprites/spr_Pot3/spr_Pot3.yy",
+    "name":"spr_Pot1_Part2",
+    "path":"sprites/spr_Pot1_Part2/spr_Pot1_Part2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
