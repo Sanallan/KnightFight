@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"Misc Animations",
-    "path":"folders/Sprites/Player/Knight1/Misc Animations.yy",
+    "path":"folders/SPRITES/Player/Knight1/Misc Animations.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

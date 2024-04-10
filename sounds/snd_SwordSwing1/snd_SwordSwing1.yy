@@ -12,8 +12,8 @@
   "duration":0.454062,
   "name":"snd_SwordSwing1",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Sword & Shield",
+    "path":"folders/SOUND FX/Player FX/Sword & Shield.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

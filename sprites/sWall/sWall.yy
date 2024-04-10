@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Walls",
-    "path":"folders/Sprites/Walls.yy",
+    "path":"folders/SPRITES/Walls.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

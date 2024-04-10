@@ -12,8 +12,8 @@
   "duration":1.461156,
   "name":"snd_Explosion",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Impact FX",
+    "path":"folders/SOUND FX/Impact FX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Walls",
-    "path":"folders/Objects/Walls.yy",
+    "path":"folders/OBJECTS/Walls.yy",
   },
   "parentObjectId":{
     "name":"obj_LowWall",

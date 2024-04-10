@@ -28,7 +28,7 @@
   "origin":4,
   "parent":{
     "name":"Attacking",
-    "path":"folders/Sprites/Player/Knight1/Attacking.yy",
+    "path":"folders/SPRITES/Player/Knight1/Attacking.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

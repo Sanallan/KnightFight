@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Props",
-    "path":"folders/Objects/Props.yy",
+    "path":"folders/OBJECTS/Props.yy",
   },
   "parentObjectId":{
     "name":"obj_Barrel",

@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Walking Holding",
-    "path":"folders/Sprites/Player/Knight1/Walking Holding.yy",
+    "path":"folders/SPRITES/Player/Knight1/Walking Holding.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -12,8 +12,8 @@
   "duration":0.428435,
   "name":"snd_Shield_Blocked_1",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Sword & Shield",
+    "path":"folders/SOUND FX/Player FX/Sword & Shield.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Knight1",
-    "path":"folders/Sprites/Player/Knight1.yy",
+    "path":"folders/SPRITES/Player/Knight1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

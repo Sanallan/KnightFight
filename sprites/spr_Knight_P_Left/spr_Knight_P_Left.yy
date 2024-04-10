@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Pushing",
-    "path":"folders/Sprites/Player/Knight1/Pushing.yy",
+    "path":"folders/SPRITES/Player/Knight1/Pushing.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -12,8 +12,8 @@
   "duration":1.676333,
   "name":"snd_PotBreak",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Impact FX",
+    "path":"folders/SOUND FX/Impact FX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

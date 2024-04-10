@@ -12,8 +12,8 @@
   "duration":1.488435,
   "name":"snd_Screen_Fade_Out",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Interface & UI FX",
+    "path":"folders/SOUND FX/Interface & UI FX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

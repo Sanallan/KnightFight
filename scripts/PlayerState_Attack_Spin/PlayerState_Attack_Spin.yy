@@ -6,7 +6,7 @@
   "name":"PlayerState_Attack_Spin",
   "parent":{
     "name":"Player Scripts",
-    "path":"folders/Scripts/Player Scripts.yy",
+    "path":"folders/SCRIPTS/Player Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

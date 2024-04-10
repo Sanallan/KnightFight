@@ -12,8 +12,8 @@
   "duration":0.877664,
   "name":"snd_Hit1",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Impact FX",
+    "path":"folders/SOUND FX/Impact FX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

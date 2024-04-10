@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Walking",
-    "path":"folders/Sprites/Player/Knight1/Walking.yy",
+    "path":"folders/SPRITES/Player/Knight1/Walking.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

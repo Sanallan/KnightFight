@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Hurt Frames",
-    "path":"folders/Sprites/Player/Knight1/Hurt Frames.yy",
+    "path":"folders/SPRITES/Player/Knight1/Hurt Frames.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

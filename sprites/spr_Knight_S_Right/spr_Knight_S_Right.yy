@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Walking w Sword",
-    "path":"folders/Sprites/Player/Knight1/Walking w Sword.yy",
+    "path":"folders/SPRITES/Player/Knight1/Walking w Sword.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

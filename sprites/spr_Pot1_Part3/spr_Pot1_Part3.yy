@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Pot Debris",
-    "path":"folders/Sprites/Particles/Pot Debris.yy",
+    "path":"folders/SPRITES/Particles/Pot Debris.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

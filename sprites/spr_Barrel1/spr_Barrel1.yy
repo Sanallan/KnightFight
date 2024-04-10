@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Barrel",
-    "path":"folders/Sprites/Props/Barrel.yy",
+    "path":"folders/SPRITES/Props/Barrel.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Barrel Debris",
-    "path":"folders/Sprites/Particles/Barrel Debris.yy",
+    "path":"folders/SPRITES/Particles/Barrel Debris.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
