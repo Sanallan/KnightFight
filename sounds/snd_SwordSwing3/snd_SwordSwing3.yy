@@ -12,8 +12,8 @@
   "duration":0.317229,
   "name":"snd_SwordSwing3",
   "parent":{
-    "name":"Sword",
-    "path":"folders/Sounds/Player/Sword.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -12,8 +12,8 @@
   "duration":0.032653,
   "name":"snd_Footstep_1",
   "parent":{
-    "name":"Footsteps",
-    "path":"folders/Sounds/Footsteps.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

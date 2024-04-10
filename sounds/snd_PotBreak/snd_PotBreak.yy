@@ -12,8 +12,8 @@
   "duration":1.676333,
   "name":"snd_PotBreak",
   "parent":{
-    "name":"Props",
-    "path":"folders/Sounds/Impact Sounds/Props.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_PotBreak.wav",
   "type":0,
-  "volume":0.22,
+  "volume":0.3,
 }

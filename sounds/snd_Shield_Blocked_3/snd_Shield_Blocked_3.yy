@@ -12,8 +12,8 @@
   "duration":0.469909,
   "name":"snd_Shield_Blocked_3",
   "parent":{
-    "name":"Shield Dings",
-    "path":"folders/Sounds/Impact Sounds/Shield Dings.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

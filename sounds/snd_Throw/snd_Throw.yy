@@ -12,8 +12,8 @@
   "duration":0.755828,
   "name":"snd_Throw",
   "parent":{
-    "name":"Player",
-    "path":"folders/Sounds/Player.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

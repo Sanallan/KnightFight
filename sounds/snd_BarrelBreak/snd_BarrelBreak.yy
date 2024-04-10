@@ -9,11 +9,11 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.282086,
+  "duration":1.383923,
   "name":"snd_BarrelBreak",
   "parent":{
-    "name":"Props",
-    "path":"folders/Sounds/Impact Sounds/Props.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_BarrelBreak.wav",
   "type":0,
-  "volume":0.54,
+  "volume":0.75,
 }

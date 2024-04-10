@@ -12,8 +12,8 @@
   "duration":2.488685,
   "name":"snd_SlamIntoWall",
   "parent":{
-    "name":"Player",
-    "path":"folders/Sounds/Player.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
