@@ -7,7 +7,11 @@ fric = 0.9; // 0 = instantly stops; 1 = no friction at all (keep values between 
 attack = 0;
 
 face = 6
-sprite = [spr_Knight_Right, spr_Knight_UpRight, spr_Knight_Up, spr_Knight_UpLeft, spr_Knight_Left,
+sprite = [spr_Knight_S_Right, spr_Knight_S_UpRight, spr_Knight_S_Up, spr_Knight_S_UpLeft, spr_Knight_S_Left,
+			spr_Knight_S_DownLeft, spr_Knight_S_Down, spr_Knight_S_DownRight];
+spriteHolding = [spr_Knight_H_Right, spr_Knight_H_UpRight, spr_Knight_H_Up, spr_Knight_H_UpLeft, spr_Knight_H_Left,
+			spr_Knight_H_DownLeft, spr_Knight_H_Down, spr_Knight_H_DownRight];
+spriteIdle = [spr_Knight_Right, spr_Knight_UpRight, spr_Knight_Up, spr_Knight_UpLeft, spr_Knight_Left,
 			spr_Knight_DownLeft, spr_Knight_Down, spr_Knight_DownRight];
 
 attackSprite = [spr_Knight_A_Right, spr_Knight_A_UpRight, spr_Knight_A_Up, spr_Knight_A_UpLeft, 
