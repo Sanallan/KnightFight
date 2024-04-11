@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_Hit3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.635079,
+  "name":"snd_Hit3",
+  "parent":{
+    "name":"Impact FX",
+    "path":"folders/SOUND FX/Impact FX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_Hit3.wav",
+  "type":0,
+  "volume":0.45,
+}

@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Props",
-    "path":"folders/SPRITES/Props.yy",
+    "name":"Interactable Props",
+    "path":"folders/SPRITES/Interactable Props.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

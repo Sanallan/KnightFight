@@ -35,5 +35,5 @@
     "path":"sprites/spr_PH_Wall/spr_PH_Wall.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

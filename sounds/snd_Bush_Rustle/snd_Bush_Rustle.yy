@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_Bush_Rustle",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.648549,
+  "name":"snd_Bush_Rustle",
+  "parent":{
+    "name":"Impact FX",
+    "path":"folders/SOUND FX/Impact FX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_Bush_Rustle.wav",
+  "type":0,
+  "volume":0.39,
+}

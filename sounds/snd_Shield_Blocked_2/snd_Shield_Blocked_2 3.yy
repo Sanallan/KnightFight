@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_Shield_Blocked_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.372517,
+  "name":"snd_Shield_Blocked_2",
+  "parent":{
+    "name":"Sword & Shield",
+    "path":"folders/SOUND FX/Player FX/Sword & Shield.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_Shield_Blocked_2.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Pot",
-    "path":"folders/SPRITES/Props/Pot.yy",
+    "path":"folders/SPRITES/Interactable Props/Pot.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

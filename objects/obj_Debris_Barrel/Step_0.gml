@@ -11,4 +11,5 @@ if (fade = true)
 	    instance_destroy();
 	}
 }
+
     
