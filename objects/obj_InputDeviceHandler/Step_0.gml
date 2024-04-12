@@ -3,7 +3,7 @@
 //Check for Keyboard Input
 if (global.any_keyboard_pressed = 0) 
 {
-	if ((keyboard_check(vk_right))||(keyboard_check(vk_left))||(keyboard_check(vk_down))||(keyboard_check(vk_up))) 
+	if ((keyboard_check(vk_right))||(keyboard_check(vk_left))||(keyboard_check(vk_down))||(keyboard_check(vk_up))||(mouse_check_button(mb_any)))
 	{
 		global.any_keyboard_pressed = 1;
 		global.any_controller_pressed = 0;

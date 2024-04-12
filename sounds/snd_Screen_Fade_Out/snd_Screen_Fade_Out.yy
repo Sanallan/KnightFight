@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_Screen_Fade_Out.wav",
   "type":0,
-  "volume":0.45,
+  "volume":0.22,
 }
