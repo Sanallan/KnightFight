@@ -9,8 +9,8 @@
   "name":"obj_ScreenFadeOut",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI and Interface",
-    "path":"folders/OBJECTS/UI and Interface.yy",
+    "name":"Transitions",
+    "path":"folders/OBJECTS/UI and Interface/Transitions.yy",
   },
   "parentObjectId":null,
   "persistent":false,

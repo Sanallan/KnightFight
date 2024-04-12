@@ -9,8 +9,8 @@
   "name":"obj_Mouse",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI and Interface",
-    "path":"folders/OBJECTS/UI and Interface.yy",
+    "name":"Parents",
+    "path":"folders/OBJECTS/UI and Interface/Parents.yy",
   },
   "parentObjectId":null,
   "persistent":false,

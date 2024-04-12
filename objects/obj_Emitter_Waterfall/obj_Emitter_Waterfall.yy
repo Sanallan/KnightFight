@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Sound Emitters",
-    "path":"folders/OBJECTS/Controllers/Sound Emitters.yy",
+    "path":"folders/OBJECTS/Sound Emitters.yy",
   },
   "parentObjectId":null,
   "persistent":false,

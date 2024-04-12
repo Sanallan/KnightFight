@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_Button_Click",
+  "%Name":"snd_Click_Release",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.055737,
-  "name":"snd_Button_Click",
+  "duration":0.056009,
+  "name":"snd_Click_Release",
   "parent":{
     "name":"Interaction Sounds",
     "path":"folders/SOUND FX/Interface & UI FX/Interaction Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_Button_Click.ogg",
+  "soundFile":"snd_Click_Release.wav",
   "type":0,
-  "volume":0.29,
+  "volume":0.45,
 }

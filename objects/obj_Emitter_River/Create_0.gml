@@ -9,4 +9,4 @@ audio_play_sound_at(
 	true,1
 );
 
-audio_sound_gain(snd_Ambient_Stream,0.01,0);
+audio_sound_gain(snd_Ambient_Stream,0.02,0);
