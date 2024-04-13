@@ -2,13 +2,13 @@
 // You can write your code in this editor
 
 sprite_broadcast("foot1", function() {
-	if (state = PLAYERSTATE.FREE) {
+	if (state = PlayerState_Free) {
 		audio_play_sound(choose(snd_Foot1_1,snd_Foot1_2,snd_Foot1_3,snd_Foot1_4),0,false);
 	}
 });
 
 sprite_broadcast("foot2", function() {
-	if (state = PLAYERSTATE.FREE) {
+	if (state = PlayerState_Free) {
 		audio_play_sound(choose(snd_Foot2_1,snd_Foot2_2,snd_Foot2_3,snd_Foot2_4),0,false);
 	}
 });

@@ -41,6 +41,6 @@ function PlayerState_Attack() {
 
 	if (animation_end()) {
 		sprite_index = sprite[face];
-		state = PLAYERSTATE.FREE;
+		state = PlayerState_Free;
 	}
 }

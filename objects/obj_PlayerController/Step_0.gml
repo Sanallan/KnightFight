@@ -10,8 +10,10 @@ if (global.any_keyboard_pressed = 1) {
 	downKey = keyboard_check(vk_down);
 	//Other Keys
 	dash = 1 + keyboard_check( ord("Z"));
+	keyRoll = keyboard_check(ord("V")); //Placeholder
 	keyAttack = keyboard_check(ord("X"));
-	keyInteract = keyboard_check(ord("C"));
+	keyBlock = keyboard_check(ord("C"));
+	keyInteract = keyboard_check(ord("S"));
 }
 
 //Controller Inputs
@@ -44,17 +46,11 @@ if (global.any_controller_pressed = 1) {
 	dash = 1 + gamepad_button_check(0,gp_face2);
 	keyAttack = gamepad_button_check(0,gp_face1);
 	keyInteract = gamepad_button_check(0,gp_face3);
+	keyRoll = gamepad_button_check(0,gp_face4)
 }
 
 //Switch States
-switch (state) {
-	case PLAYERSTATE.FREE: PlayerState_Free();
-	break;
-	case PLAYERSTATE.ATTACK: PlayerState_Attack();
-	break;
-	case PLAYERSTATE.ATTACK_SPIN: PlayerState_Attack_Spin();
-	break;
-}
+script_execute(state)
 
 //Visual Depth Management
 depth = -bbox_bottom;

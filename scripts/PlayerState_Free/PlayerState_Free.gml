@@ -5,19 +5,9 @@ function PlayerState_Free() {
 _horizKey = rightKey - leftKey;
 _vertKey = downKey - upKey;
 
-if place_meeting(x + xspd, y, obj_SolidParent) {
-	xspd = 0;
-}
-if place_meeting(x , y + yspd, obj_SolidParent) {
-	yspd = 0;
-}
-
 //move the player
-x += xspd*dash;
-y += yspd*dash;
-
-xspd *= fric;
-yspd *= fric;
+//check for collision
+PlayerState_Collision();
 
 if (_horizKey != 0 || _vertKey != 0) {
 	moveDir = point_direction(0, 0, _horizKey, _vertKey);
@@ -51,5 +41,11 @@ if (_horizKey != 0 || _vertKey != 0) {
 }
 #endregion
 
-if (keyAttack) state = PLAYERSTATE.ATTACK;
+if (keyAttack) {
+	state = PlayerState_Attack;
+}
+if (keyRoll) {
+	state = PlayerState_Roll;
+	moveDistanceRemaining = distanceRoll;
+}
 }
