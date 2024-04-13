@@ -10,8 +10,8 @@
   "name":"obj_Debris_Pot2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Particles",
-    "path":"folders/OBJECTS/Particles.yy",
+    "name":"Debris Particles",
+    "path":"folders/OBJECTS/Particles/Debris Particles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Pot2_Part2",
-    "path":"sprites/spr_Pot2_Part2/spr_Pot2_Part2.yy",
+    "name":"spr_Debris_Pot2",
+    "path":"sprites/spr_Debris_Pot2/spr_Debris_Pot2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -10,8 +10,8 @@
   "name":"obj_Debris_Leaves",
   "overriddenProperties":[],
   "parent":{
-    "name":"Particles",
-    "path":"folders/OBJECTS/Particles.yy",
+    "name":"Debris Particles",
+    "path":"folders/OBJECTS/Particles/Debris Particles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,12 +32,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Leaf2",
-    "path":"sprites/spr_Leaf2/spr_Leaf2.yy",
+    "name":"spr_Debris_Leaves",
+    "path":"sprites/spr_Debris_Leaves/spr_Debris_Leaves.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_Leaf1",
-    "path":"sprites/spr_Leaf1/spr_Leaf1.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

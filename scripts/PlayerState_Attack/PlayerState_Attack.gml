@@ -20,7 +20,7 @@ function PlayerState_Attack() {
 	}
 		mask_index = attackHbox[face]
 	var hitByAttackNow = ds_list_create();
-	var hits = instance_place_list(x, y, obj_Barrel, hitByAttackNow, false);
+	var hits = instance_place_list(x, y, obj_Prop_Parent, hitByAttackNow, false);
 	if (hits > 0) {
 		for (var i = 0; i < hits; i++) {
 			//if this instance has not yet been hit by the attack

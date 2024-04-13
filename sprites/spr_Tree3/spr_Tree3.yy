@@ -26,7 +26,7 @@
   "origin":9,
   "parent":{
     "name":"Vegetation",
-    "path":"folders/SPRITES/Terrain/Vegetation.yy",
+    "path":"folders/SPRITES/Terrain/Room Decor/Vegetation.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

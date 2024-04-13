@@ -40,5 +40,5 @@
     "name":"spr_Button_ExampleRoom",
     "path":"sprites/spr_Button_ExampleRoom/spr_Button_ExampleRoom.yy",
   },
-  "visible":true,
+  "visible":false,
 }

@@ -8,8 +8,8 @@
   "name":"obj_Bush_Chopped",
   "overriddenProperties":[],
   "parent":{
-    "name":"Static Props",
-    "path":"folders/OBJECTS/Props/Static Props.yy",
+    "name":"Props",
+    "path":"folders/OBJECTS/Props.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Bush_Chopped",
-    "path":"sprites/spr_Bush_Chopped/spr_Bush_Chopped.yy",
+    "name":"spr_Bush_1_Chopped",
+    "path":"sprites/spr_Bush_1_Chopped/spr_Bush_1_Chopped.yy",
   },
   "spriteMaskId":null,
   "visible":true,

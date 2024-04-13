@@ -1,4 +1,5 @@
 /// @description Choose Barrel Sprite
-sprite_index = choose(spr_Pot3,spr_Pot4,spr_Pot5);
+image_index = choose(0,1);
+image_speed = 0;
 
 depth = -bbox_bottom;

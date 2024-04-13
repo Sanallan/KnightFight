@@ -10,8 +10,8 @@
   "name":"obj_Debris_Barrel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Particles",
-    "path":"folders/OBJECTS/Particles.yy",
+    "name":"Debris Particles",
+    "path":"folders/OBJECTS/Particles/Debris Particles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_BarrelPart1",
-    "path":"sprites/spr_BarrelPart1/spr_BarrelPart1.yy",
+    "name":"spr_Debris_Barrel",
+    "path":"sprites/spr_Debris_Barrel/spr_Debris_Barrel.yy",
   },
   "spriteMaskId":null,
   "visible":true,

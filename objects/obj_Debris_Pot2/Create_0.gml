@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-sprite_index = choose(spr_Pot2_Part1,spr_Pot2_Part2,spr_Pot2_Part3,spr_Pot2_Part4,spr_Pot2_Part5);
+image_index = choose(0,1,2);
+image_speed = 0;
 
 image_angle = random(360);
 
