@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_PH_Larger_Wall",
-    "path":"sprites/spr_PH_Larger_Wall/spr_PH_Larger_Wall.yy",
+    "name":"spr_PH_Larger_Wall2",
+    "path":"sprites/spr_PH_Larger_Wall2/spr_PH_Larger_Wall2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -9,9 +9,10 @@ if (global.any_keyboard_pressed = 1) {
 	//Down
 	downKey = keyboard_check(vk_down);
 	//Other Keys
-	dash = 1 + keyboard_check( ord("Z"));
+	dash = 1 + keyboard_check( ord("C"));
 	keyAttack = keyboard_check(ord("X"));
-	keyInteract = keyboard_check(ord("C"));
+	keyInteract = keyboard_check(ord("S"));
+	keyBlock = keyboard_check(ord("Z"));
 }
 
 //Controller Inputs

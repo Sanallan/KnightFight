@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_Button_Click.ogg",
   "type":0,
-  "volume":0.29,
+  "volume":0.21,
 }

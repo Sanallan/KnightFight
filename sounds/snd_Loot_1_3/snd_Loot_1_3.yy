@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_Loot_1_3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.834535,
+  "name":"snd_Loot_1_3",
+  "parent":{
+    "name":"Pickup FX",
+    "path":"folders/SOUND FX/Pickup FX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_Loot_1_3.wav",
+  "type":0,
+  "volume":0.28,
+}

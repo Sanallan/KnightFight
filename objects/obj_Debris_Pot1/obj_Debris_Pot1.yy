@@ -4,7 +4,6 @@
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_Debris_Pot1",
@@ -13,7 +12,10 @@
     "name":"Debris Particles",
     "path":"folders/OBJECTS/Particles/Debris Particles.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_P_Bouncing_Debris",
+    "path":"objects/obj_P_Bouncing_Debris/obj_P_Bouncing_Debris.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
