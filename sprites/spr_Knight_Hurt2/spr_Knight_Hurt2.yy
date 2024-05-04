@@ -5,21 +5,21 @@
   "bbox_bottom":151,
   "bbox_left":42,
   "bbox_right":153,
-  "bbox_top":23,
+  "bbox_top":22,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1df1d5ed-015d-4949-a6d3-4018574afc5c","name":"1df1d5ed-015d-4949-a6d3-4018574afc5c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ab9b7842-99ba-4e82-80eb-5283daa842e1","name":"ab9b7842-99ba-4e82-80eb-5283daa842e1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":192,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f11c8f2d-7737-4e88-9d34-ee10245953ba","blendMode":0,"displayName":"default","isLocked":false,"name":"f11c8f2d-7737-4e88-9d34-ee10245953ba","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e4dc343f-e797-4fe2-a77e-78a99d9c76fb","blendMode":0,"displayName":"default","isLocked":false,"name":"e4dc343f-e797-4fe2-a77e-78a99d9c76fb","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_Knight_Hurt2",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1df1d5ed-015d-4949-a6d3-4018574afc5c","path":"sprites/spr_Knight_Hurt2/spr_Knight_Hurt2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8a69bf91-14a6-41e4-9709-c911a1ed5af4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ab9b7842-99ba-4e82-80eb-5283daa842e1","path":"sprites/spr_Knight_Hurt2/spr_Knight_Hurt2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1ddc0ffe-479e-4004-9329-a8fe25744518","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

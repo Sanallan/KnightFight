@@ -7,10 +7,9 @@ depth = -bbox_bottom-100;
 
 //Calculate Z Mod + Velocity
 zvelocity = zvelocity + zgrav
-
 zmod = zmod + zvelocity
 
-// Bounces
+//Bounces
 if (zmod > 0) {
 	if (bounces = 3) {
 		zvelocity = -4;	
@@ -22,8 +21,15 @@ if (zmod > 0) {
 		zvelocity = -1.5;	
 		bounces = 0;
 	} else if (bounces = 0) {
-		zmod = 0;	
+		zmod = 0.01;	
+		oscillating = true;
 	}
+}
+
+//Oscillating
+if (oscillating = true) {
+	t = (t + increment) mod 360;
+	shift = amplitude * dsin(t);
 }
 
 //Collision
