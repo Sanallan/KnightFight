@@ -7,8 +7,13 @@ xspd = 0;
 moveSpd = 5;
 fric = 0.9; // 0 = instantly stops; 1 = no friction at all (keep values between 0 and 1)
 attack = 0;
-speedRoll = 10;
-distanceRoll = 100;
+rollSpd = 15;
+dashArray = [];
+canDash = true;
+dashCooldown = 120;
+dashTimerInitial = 15;
+dashTimer = dashTimerInitial;
+
 
 face = 6
 sprite = [spr_Knight_S_Right, spr_Knight_S_UpRight, spr_Knight_S_Up, spr_Knight_S_UpLeft, spr_Knight_S_Left,

@@ -46,6 +46,11 @@ if (keyAttack) {
 }
 if (keyRoll) {
 	state = PlayerState_Roll;
-	moveDistanceRemaining = distanceRoll;
+	dashTimer = dashTimerInitial;
+	//get direction
+	var _dir = point_direction(0, 0, _horizKey, _vertKey)
+	xspd = lengthdir_x(rollSpd, _dir);
+	yspd = lengthdir_y(rollSpd, _dir);
+	dashArray = [];
 }
 }

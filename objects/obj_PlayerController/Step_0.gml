@@ -10,7 +10,7 @@ if (global.any_keyboard_pressed = 1) {
 	downKey = keyboard_check(vk_down);
 	//Other Keys
 	dash = 1 + keyboard_check( ord("Z"));
-	keyRoll = keyboard_check(ord("V")); //Placeholder
+	keyRoll = keyboard_check_pressed(ord("V")) dash = true; //Placeholder
 	keyAttack = keyboard_check(ord("X"));
 	keyBlock = keyboard_check(ord("C"));
 	keyInteract = keyboard_check(ord("S"));
